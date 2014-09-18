@@ -4,21 +4,41 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Code for Birmingham | A Code for America Brigade | {{ page.title }}</title>
-        <link rel="stylesheet" href="css/foundation.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="/css/foundation.css">
+        <link rel="stylesheet" href="/css/main.css">
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arvo|Dosis:600|Lobster|Oswald">
     </head>
     <body>
         <header>
-            <img class="center" src="img/codeforbirmingham.png" alt="Code for Birmingham">
+            <img class="center" src="/img/codeforbirmingham.png" alt="Code for Birmingham">
         </header>
         <nav>
             <ul class="horizontal-list">
-                <li class="active"><a href="">Who We Are</a></li>
-                <li><a href="">Forum</a></li>
-                <li><a href="">Resources</a></li>
-                <li><a href="">Get Involved</a></li>
-                <li><a href="">Contact Us</a></li>
+                {% if page.active == "home" %}
+                    <li class="active"><a href="/">Who We Are</a></li>
+                {% else %}
+                    <li><a href="/">Who We Are</a></li>
+                {% endif %}
+                {% if page.active == "forum" %}
+                    <li class="active"><a href="/forum">Forum</a></li>
+                {% else %}
+                    <li><a href="/forum">Forum</a></li>
+                {% endif %}
+                {% if page.active == "resources" %}
+                    <li class="active"><a href="/resources">Resources</a></li>
+                {% else %}
+                    <li><a href="/resources">Resources</a></li>
+                {% endif %}
+                {% if page.active == "get-involved" %}
+                    <li class="active"><a href="/get-involved">Get Involved</a></li>
+                {% else %}
+                    <li><a href="/get-involved">Get Involved</a></li>
+                {% endif %}
+                {% if page.active == "contact-us" %}
+                    <li class="active"><a href="/contact-us">Contact Us</a></li>
+                {% else %}
+                    <li><a href="/contact-us">Contact Us</a></li>
+                {% endif %}
             </ul>
         </nav>
         <div class="row">
