@@ -73,11 +73,9 @@ nav ul {
     text-align: center;
 }
 
-nav li {
-    padding: 10px;
-}
-
 nav a {
+    display: block;
+    padding: 10px;
     font-family: 'Dosis', sans-serif;
     font-size: 15px;
     text-transform: uppercase;
