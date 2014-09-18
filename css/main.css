@@ -1,0 +1,156 @@
+body {
+    background: #f9f9f9;
+}
+
+h1 {
+    font-family: "Oswald", sans-serif;
+}
+
+h2 {
+    font-family: "Lobster", sans-serif;
+    font-size: 25px;
+    color: #515151;
+}
+
+p,
+span {
+    font-family: "Arvo", sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    color: #515151;
+}
+
+a:hover {
+    color: #c0392b;
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.horizontal-list {
+    margin-left: 0;
+    margin-right: 0;
+    list-style: none;
+}
+
+.horizontal-list li {
+    display: inline-block;
+    margin-right: 7px;
+}
+
+.headline {
+    margin-bottom: 25px;
+    border-bottom: 1px dotted #34a2d7;
+}
+
+.headline h1 {
+    display: inline-block;
+    margin-bottom: -1px;
+    text-transform: uppercase;
+    border-bottom: 5px solid #34a2d7;
+}
+
+header {
+    background-image: url('../img/birmingham-skyline.png');
+    background-position: center -100px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header img {
+    padding-top: 6px;
+}
+
+nav {
+    display: block;
+    margin: 55px auto 10px auto;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav li {
+    padding: 10px;
+}
+
+nav a {
+    font-family: 'Dosis', sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #000;
+}
+
+nav li.active,
+nav li:hover {
+    background: #cf2041;
+}
+
+nav li.active a,
+nav li:hover a {
+    color: #FFF;
+}
+
+aside h1 {
+    margin-bottom: 15px;
+    padding: 0 24px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #666;
+}
+
+aside .box {
+    padding: 15px 24px 0 24px;
+    border-top: 1px solid #ececec;
+    background: #f6f6f6;
+}
+
+aside ul {
+    margin-left: 0;
+    margin-right: 0;
+    list-style: none;
+}
+
+aside li a {
+    font-family: 'Dosis', sans-serif;
+    font-size: 13px;
+    color: #515151;
+}
+
+section .headline {
+    text-align: right;
+}
+
+section .headline h1 {
+    font-size: 30px;
+    color: #161616;
+}
+
+footer {
+    margin: 48px 0;
+    height: 175px;
+    background: #6e6f73;
+}
+
+footer .row {
+    padding: 40px 0;
+}
+
+footer .headline {
+    width: 295px;
+}
+
+footer .headline h1 {
+    font-size: 20px;
+    color: #fff;
+}
+
+footer li a {
+    font-family: "Arvo", sans-serif;
+    font-size: 13px;
+    color: #cfcfcf;
+}

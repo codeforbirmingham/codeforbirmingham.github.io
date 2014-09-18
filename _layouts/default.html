@@ -4,8 +4,55 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Code for Birmingham | A Code for America Brigade | {{ page.title }}</title>
+        <link rel="stylesheet" href="css/foundation.css">
+        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arvo|Dosis:600|Lobster|Oswald">
     </head>
     <body>
-        {{ content }}
+        <header>
+            <img class="center" src="img/codeforbirmingham.png" alt="Code for Birmingham">
+        </header>
+        <nav>
+            <ul class="horizontal-list">
+                <li class="active"><a href="">Who We Are</a></li>
+                <li><a href="">Forum</a></li>
+                <li><a href="">Resources</a></li>
+                <li><a href="">Get Involved</a></li>
+                <li><a href="">Contact Us</a></li>
+            </ul>
+        </nav>
+        <div class="row">
+            <aside class="large-3 columns">
+                <h1>Projects</h1>
+                <div class="box">
+                    <ul>
+                        <li><a href="">Project A</a></li>
+                        <li><a href="">Project B</a></li>
+                        <li><a href="">Project C</a></li>
+                    </ul>
+                </div>
+            </aside>
+            <div class="large-9 columns">
+                <section>
+                    <div class="headline">
+                        <h1>{{ page.title }}</h1>
+                    </div>
+                    {{ content }}
+                </section>
+            </div>
+        </div>
+        <footer>
+            <div class="row">
+                <div class="headline">
+                    <h1>Find Us</h1>
+                </div>
+                <ul class="horizontal-list">
+                    <li><a href="https://github.com/CodeforBirmingham" target="_blank">GitHub</a></li>
+                    <li><a href="http://www.meetup.com/Code-for-Birmingham-AL/" target="_blank">Meetup</a></li>
+                    <li><a href="https://www.facebook.com/Codeforbirmingham" target="_blank">Facebook</a></li>
+                    <li><a href="https://groups.google.com/forum/#!forum/codeforbirmingham" target="_blank">Google Groups</a></li>
+                </ul>
+            </div>
+        </footer>
     </body>
 </html>
