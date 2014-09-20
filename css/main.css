@@ -1,5 +1,9 @@
 body {
+    font-family: "Arvo", sans-serif;
+    font-size: 14px;
+    line-height: 28px;
     background: #f9f9f9;
+    color: #515151;
 }
 
 h1 {
@@ -9,14 +13,6 @@ h1 {
 h2 {
     font-family: "Lobster", sans-serif;
     font-size: 25px;
-    color: #515151;
-}
-
-p,
-span {
-    font-family: "Arvo", sans-serif;
-    font-size: 14px;
-    line-height: 28px;
     color: #515151;
 }
 
