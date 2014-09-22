@@ -33,9 +33,10 @@ We think that hierarchy is a bad model for the type of work we do. We have a tea
 Organizers
 ----------
 
-- Tait Wayland – Brigade Leader (Taitwayland@gmail.com)
-- Marcus Dillavou – Data Wrangler
-- Braden Groom – Developer Lead
-- Erby Fischer -Developer Lead
-- Joseph Casper Baker III – Community Organizer
-- Inocencio Cháves – Political Liason
+- Brigade Leaders: Tait Wayland, Marcus Dillavou
+- Community Organizer: Deon Gordon
+- Data Wrangler: Alexander Grüneberg
+- Developer Leads: Braden Groom, Erby Fischer
+- Documentarian/Scribe: Ian Hoppe
+- Event Planner: Miranda McPherson
+- Storyteller: Joseph Casper Baker III
