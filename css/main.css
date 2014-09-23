@@ -114,11 +114,11 @@ aside li a {
     color: #515151;
 }
 
-section .headline {
+article .headline {
     text-align: right;
 }
 
-section .headline h1 {
+article .headline h1 {
     font-size: 30px;
     color: #161616;
 }
