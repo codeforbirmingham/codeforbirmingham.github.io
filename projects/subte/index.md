@@ -4,4 +4,13 @@ title: Subte
 flag: project
 ---
 
-More soon!
+Code
+----
+
+The code is available under the GPLv3 or later on [GitHub](https://github.com/CodeforBirmingham/subte).
+
+
+Project Lead
+------------
+
+Marcus Dillavou
