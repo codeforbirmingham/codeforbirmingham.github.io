@@ -48,8 +48,8 @@
                 <div class="box">
                     <ul>
                         {% assign sorted_projects = (site.pages | where: "flag", "project" | sort: "title") %}
-                        {% for page in sorted_projects %}
-                            <li><a href="{{ page.url | replace: "index.html", "" }}">{{ page.title }}</a></li>
+                        {% for project in sorted_projects %}
+                            <li><a href="{{ project.url | replace: "index.html", "" }}">{{ project.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </div>
