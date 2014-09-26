@@ -45,14 +45,14 @@
         <div class="row">
             <aside class="large-3 columns">
                 <h1>Projects</h1>
-                <div class="box">
+                <nav class="box">
                     <ul>
                         {% assign sorted_projects = (site.pages | where: "flag", "project" | sort: "title") %}
                         {% for project in sorted_projects %}
                             <li><a href="{{ project.url | replace: "index.html", "" }}">{{ project.title }}</a></li>
                         {% endfor %}
                     </ul>
-                </div>
+                </nav>
             </aside>
             <article class="large-9 columns">
                 <div class="headline">

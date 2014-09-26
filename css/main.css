@@ -60,16 +60,16 @@ header img {
     padding-top: 6px;
 }
 
-nav {
+body > nav {
     display: block;
     margin: 55px auto 10px auto;
 }
 
-nav ul {
+body > nav ul {
     text-align: center;
 }
 
-nav a {
+body > nav a {
     display: block;
     padding: 10px;
     font-family: 'Dosis', sans-serif;
@@ -78,13 +78,13 @@ nav a {
     color: #000;
 }
 
-nav li.active,
-nav li:hover {
+body > nav li.active,
+body > nav li:hover {
     background: #cf2041;
 }
 
-nav li.active a,
-nav li:hover a {
+body > nav li.active a,
+body > nav li:hover a {
     color: #FFF;
 }
 
