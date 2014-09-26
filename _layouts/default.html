@@ -49,7 +49,7 @@
                     <ul>
                         {% assign sorted_projects = (site.pages | where: "flag", "project" | sort: "title") %}
                         {% for project in sorted_projects %}
-                            <li><a href="{{ project.url | replace: "index.html", "" }}">{{ project.title }}</a></li>
+                            <li {% if page.url == project.url %}class="active"{% endif %}><a href="{{ project.url | replace: "index.html", "" }}">{{ project.title }}</a></li>
                         {% endfor %}
                     </ul>
                 </nav>

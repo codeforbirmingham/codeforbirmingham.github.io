@@ -114,6 +114,10 @@ aside li a {
     color: #515151;
 }
 
+aside nav li.active a {
+    color: #c0392b;
+}
+
 article .headline {
     text-align: right;
 }
