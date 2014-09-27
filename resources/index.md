@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Resources
+description: 
 active: resources
 ---
 

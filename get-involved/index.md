@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Get Involved
+description: 
 active: get-involved
 ---
 

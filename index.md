@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Who We Are
+description: 
 active: home
 ---
 
