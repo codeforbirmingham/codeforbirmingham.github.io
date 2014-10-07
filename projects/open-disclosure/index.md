@@ -11,9 +11,12 @@ Alabama. This will empower citizens to better understand the flow of money in th
 political system, and consequently to hold their representatives more accountable.
 It's loosely modeled after [Open Oakland's project](http://opendisclosure.io/).
 
+
 Data
-====
+----
+
 [Public campaign finance data](http://fcpa.alabamavotes.gov/PublicSite/DataDownload.aspx)
+
 
 Code
 ----
