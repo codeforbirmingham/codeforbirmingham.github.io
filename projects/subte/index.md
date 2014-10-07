@@ -5,6 +5,9 @@ description:
 flag: project
 ---
 
+Subte is an application to manage public transit data. It can create stops, build routes and timetables, and export to [General Transit Feed Specification (GTFS)](https://developers.google.com/transit/gtfs/reference) data which can be used by Google Transit, Open Trip Planner, and others.
+
+
 Code
 ----
 
