@@ -37,7 +37,7 @@ Organizers
 - Brigade Leaders: Tait Wayland, Marcus Dillavou
 - Community Organizer: Deon Gordon
 - Data Wrangler: Alexander Grüneberg
-- Developer Leads: Braden Groom, Erby Fischer
+- Delivery Leads: Braden Groom, Erby Fischer
 - Documentarian/Scribe: Ian Hoppe
 - Event Planner: Miranda McPherson
 - Storyteller: Joseph Casper Baker III
