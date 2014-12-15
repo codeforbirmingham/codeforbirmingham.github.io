@@ -41,3 +41,4 @@ Organizers
 - Documentarian/Scribe: Ian Hoppe
 - Event Planner: Miranda McPherson
 - Storyteller: Joseph Casper Baker III
+- Municipal Partner: Srikanth Karra 
