@@ -44,6 +44,5 @@ Organizers
 - Storyteller: Joseph Casper Baker III
 - Project Lead: Scott Wehby
 - Municipal Partner: Srikanth Karra: IMS Director/CTO 
-- Community Partner: Jennifer Skjellum: Tech Birmingham 
-=======
+- Community Partner: Jennifer Skjellum: Tech Birmingham
 
