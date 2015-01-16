@@ -41,4 +41,6 @@ Organizers
 - Documentarian/Scribe: Ian Hoppe
 - Event Planner: Miranda McPherson
 - Storyteller: Joseph Casper Baker III
-- Municipal Partner: Srikanth Karra 
+- Project Lead: Scott Wehby
+- Municipal Partner: Srikanth Karra: IMS Director/CTO 
+- Community Partner: Jennifer Skjellum: Tech Birmingham 
