@@ -38,9 +38,12 @@ Organizers
 - Community Organizer: Deon Gordon
 - Data Wrangler: Alexander Grüneberg
 - Delivery Leads: Braden Groom, Erby Fischer
-- Documentarian/Scribe: Ian Hoppe
 - Event Planner: Miranda McPherson
+- Municipal Partner: Srikanth Karra
+- Organizers: Ian Hoppe, Scott Wehby
 - Storyteller: Joseph Casper Baker III
 - Project Lead: Scott Wehby
 - Municipal Partner: Srikanth Karra: IMS Director/CTO 
 - Community Partner: Jennifer Skjellum: Tech Birmingham 
+=======
+
