@@ -40,10 +40,8 @@ Organizers
 - Delivery Leads: Braden Groom, Erby Fischer
 - Event Planner: Miranda McPherson
 - Municipal Partner: Srikanth Karra
-- Organizers: Ian Hoppe, Scott Wehby
+- Organizers: Ian Hoppe
 - Storyteller: Joseph Casper Baker III
 - Project Lead: Scott Wehby
 - Community Partner: Jennifer Skjellum: Tech Birmingham
-- Municipal Partner: Srikanth Karra: IMS Director/CTO 
-
-
+- Municipal Partner: Srikanth Karra: IMS Director/CTO
