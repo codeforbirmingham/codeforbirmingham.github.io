@@ -36,7 +36,7 @@ Organizers
 
 - Brigade Leaders: Tait Wayland, Marcus Dillavou
 - Community Organizer: Deon Gordon
-- Data Wrangler: Alexander Grüneberg
+- Data Wrangler: <a href="https://agrueneberg.info">Alexander Grüneberg</a>
 - Delivery Leads: Braden Groom, Erby Fischer
 - Event Planner: Miranda McPherson
 - Municipal Partner: Srikanth Karra
