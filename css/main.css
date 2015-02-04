@@ -105,6 +105,7 @@ aside h1 {
 
 aside .box {
     padding: 15px 24px;
+    margin-bottom: 15px;
     border-top: 1px solid #ececec;
     background: #f6f6f6;
 }
