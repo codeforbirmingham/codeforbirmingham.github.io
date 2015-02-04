@@ -22,6 +22,11 @@
                 {% else %}
                     <li><a href="/">Who We Are</a></li>
                 {% endif %}
+                {% if page.active == "get-involved" %}
+                    <li class="active"><a href="/get-involved">Get Involved</a></li>
+                {% else %}
+                    <li><a href="/get-involved">Get Involved</a></li>
+                {% endif %}
                 {% if page.active == "forum" %}
                     <li class="active"><a href="/forum">Forum</a></li>
                 {% else %}
@@ -31,11 +36,6 @@
                     <li class="active"><a href="/resources">Resources</a></li>
                 {% else %}
                     <li><a href="/resources">Resources</a></li>
-                {% endif %}
-                {% if page.active == "get-involved" %}
-                    <li class="active"><a href="/get-involved">Get Involved</a></li>
-                {% else %}
-                    <li><a href="/get-involved">Get Involved</a></li>
                 {% endif %}
                 {% if page.active == "contact-us" %}
                     <li class="active"><a href="/contact-us">Contact Us</a></li>
