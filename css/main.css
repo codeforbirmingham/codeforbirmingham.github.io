@@ -120,6 +120,10 @@ aside nav li.active a {
     color: #c0392b;
 }
 
+article {
+    text-align: justify;
+}
+
 article .headline {
     text-align: right;
 }
