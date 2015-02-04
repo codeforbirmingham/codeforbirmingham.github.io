@@ -90,6 +90,10 @@ body > nav li:hover a {
     color: #FFF;
 }
 
+aside {
+    margin-top: 11px;
+}
+
 aside h1 {
     margin-bottom: 15px;
     padding: 0 24px;
