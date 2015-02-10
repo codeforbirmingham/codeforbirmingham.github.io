@@ -14,10 +14,15 @@
     * Source: https://support.google.com/analytics/answer/1136920
     */
     var trackOutboundLink = function (url) {
-        ga('send', 'event', 'outbound', 'click', url, {
-            'hitCallback': function () {
-                document.location = url;
-            }
-        });
+        // Do not break if user has a privacy extension.
+        if (ga.hasOwnProperty('loaded') && ga.loaded === true) {
+            ga('send', 'event', 'outbound', 'click', url, {
+                'hitCallback': function () {
+                    document.location = url;
+                }
+            });
+        } else {
+            document.location = url;
+        }
     };
 </script>
