@@ -34,14 +34,14 @@ We think that hierarchy is a bad model for the type of work we do. We have a tea
 Organizers
 ----------
 
-- Brigade Leaders: Tait Wayland, Marcus Dillavou
+- Brigade Leaders: <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>, <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
 - Community Organizer: Deon Gordon
-- Data Wrangler: <a href="https://agrueneberg.info">Alexander Grüneberg</a>
+- Data Wrangler: <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
 - Delivery Leads: Braden Groom, Erby Fischer
 - Event Planner: Miranda McPherson
 - Municipal Partner: Srikanth Karra
 - Organizers: Ian Hoppe
 - Storyteller: Joseph Casper Baker III
-- Project Lead: Scott Wehby
-- Community Partner: Jennifer Skjellum: Tech Birmingham
-- Municipal Partner: Srikanth Karra: IMS Director/CTO
+- Project Lead: <a href="scott.wehby@codeforbirmingham.org">Scott Wehby</a>
+- Community Partner: Jennifer Skjellum (Tech Birmingham)
+- Municipal Partner: Srikanth Karra (IMS Director/CTO)
