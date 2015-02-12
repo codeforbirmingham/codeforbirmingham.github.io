@@ -1,0 +1,24 @@
+---
+layout: default
+title: Blog
+description: 
+active: blog
+---
+
+{% for post in site.posts %}
+<div>
+    <h2>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    {{ post.excerpt }}
+    <div class="row">
+        <div class="small-6 columns">
+            <a href="{{ post.url }}">Read more</a>
+        </div>
+        <div class="small-6 columns post-meta">
+            {{ post.author }}, {{ post.date | date: "%-d %B %Y" }}
+        </div>
+    </div>
+</div>
+<hr>
+{% endfor %}

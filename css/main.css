@@ -138,6 +138,11 @@ article .headline h1 {
     color: #161616;
 }
 
+.post-meta {
+    text-align: right;
+    font-size: 14px;
+}
+
 footer {
     margin: 48px 0;
     background: #6e6f73;

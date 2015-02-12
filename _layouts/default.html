@@ -42,6 +42,11 @@
                 {% else %}
                     <li><a href="/contact-us">Contact Us</a></li>
                 {% endif %}
+                {% if page.active == "blog" %}
+                    <li class="active"><a href="/blog">Blog</a></li>
+                {% else %}
+                    <li><a href="/blog">Blog</a></li>
+                {% endif %}
             </ul>
         </nav>
         <div class="row">
