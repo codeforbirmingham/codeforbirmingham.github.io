@@ -39,9 +39,8 @@ Organizers
 - Data Wrangler: <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
 - Delivery Leads: Braden Groom, Erby Fischer
 - Event Planner: Miranda McPherson
-- Municipal Partner: Srikanth Karra
 - Organizers: Ian Hoppe
-- Storyteller: Joseph Casper Baker III
 - Project Lead: <a href="scott.wehby@codeforbirmingham.org">Scott Wehby</a>
+- Storyteller: Joseph Casper Baker III
 - Community Partner: Jennifer Skjellum (Tech Birmingham)
 - Municipal Partner: Srikanth Karra (IMS Director/CTO)
