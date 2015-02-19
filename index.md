@@ -53,7 +53,7 @@ Municipal Partners
 - Srikanth Karra (IMS Director/CTO)
 
 
-Community Partner
------------------
+Community Partners
+------------------
 
 - Jennifer Skjellum (Tech Birmingham)
