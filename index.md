@@ -37,6 +37,7 @@ Core Team Members
 - <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>
 - <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
 - Joseph Casper Baker III
+- Erika Bazo
 - Erby Fischer
 - Deon Gordon
 - Braden Groom
