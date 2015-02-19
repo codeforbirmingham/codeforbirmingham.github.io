@@ -42,5 +42,15 @@ Organizers
 - Organizers: Ian Hoppe
 - Project Lead: <a href="mailto:scott.wehby@codeforbirmingham.org">Scott Wehby</a>
 - Storyteller: Joseph Casper Baker III
-- Community Partner: Jennifer Skjellum (Tech Birmingham)
-- Municipal Partner: Srikanth Karra (IMS Director/CTO)
+
+
+Municipal Partners
+------------------
+
+- Srikanth Karra (IMS Director/CTO)
+
+
+Community Partner
+-----------------
+
+- Jennifer Skjellum (Tech Birmingham)
