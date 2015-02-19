@@ -31,17 +31,19 @@ We Work like Democracy. We Work Like the Internet.
 We think that hierarchy is a bad model for the type of work we do. We have a team of organizers, but we do not have bosses, we have leaders. Our leaders don’t not delegate work, and they don’t delegate projects; they just keep everyone on rhythm. Our brigade is truly a melting pot, and we respect that. Every member of Code for Birmingham is valued and important. Every member can propose a project or an idea.
 
 
-Organizers
-----------
+Core Team Members
+-----------------
 
-- Brigade Leaders: <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>, <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
-- Community Organizer: Deon Gordon
-- Data Wrangler: <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
-- Delivery Leads: Braden Groom, Erby Fischer
-- Event Planner: Miranda McPherson
-- Organizers: Ian Hoppe
-- Project Lead: <a href="mailto:scott.wehby@codeforbirmingham.org">Scott Wehby</a>
-- Storyteller: Joseph Casper Baker III
+- <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>
+- <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
+- Joseph Casper Baker III
+- Erby Fischer
+- Deon Gordon
+- Braden Groom
+- <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
+- Ian Hoppe
+- Miranda McPherson
+- <a href="mailto:scott.wehby@codeforbirmingham.org">Scott Wehby</a>
 
 
 Municipal Partners
