@@ -5,12 +5,12 @@ description:
 active: home
 ---
 
-<img class="center" src="/img/codeforbirmingham-vulcan.png" alt="Digital Vulcan">
-
 A Code for America Brigade
 --------------------------
 
 … based in Birmingham, AL. AKA, The Magic City.
+
+<img class="center" src="/img/codeforbirmingham-vulcan.png" alt="Digital Vulcan">
 
 
 We're Bringing Magic Back
