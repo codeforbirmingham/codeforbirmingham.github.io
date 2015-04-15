@@ -2,5 +2,6 @@ name: Code for Birmingham
 description: Code for Birmingham Blog
 url: http://www.codeforbirmingham.org
 permalink: /blog/:categories/:year/:month/:day/:title.html
+exclude: [tools]
 gems:
   - jekyll-sitemap
