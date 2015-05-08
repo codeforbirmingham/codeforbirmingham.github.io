@@ -22,7 +22,7 @@ Please fill out the following form to contact us directly on our [public mailing
         <div class="large-12 columns">
             <label>
                 Email Address
-                <input type="email" name="_replyto" placeholder="Your email address">
+                <input type="email" name="email" placeholder="Your email address">
             </label>
         </div>
     </div>
