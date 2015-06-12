@@ -27,5 +27,6 @@ The code is available on [GitHub](https://github.com/CodeforBirmingham/Open-Disc
 Project Lead
 ------------
 
-- Braden Groom
-- Erby Fischer
+- Matthew Leeds
+- Alexander Grüneberg
+- Tait Wayland 
