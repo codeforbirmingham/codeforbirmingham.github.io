@@ -12,10 +12,10 @@ The goal of this policy is for the city of Birmingham to publish as much data as
 To find out what datasets the City of Birmingham has already published, check the [US City Open Data Census](http://us-city.census.okfn.org/).
 
 
-Draft
+More Info
 -----
 
-We started working on a draft during the Hack Night on 9/10/14. The document is available on [Google Drive](https://docs.google.com/document/d/1wY1ZPce17gCJkjUj_gsUiQeAz15MvLZHi5oj9u8mFjE/edit). Contributions are welcome!
+For more information on the Birmingham Open Data movement or to sign the petition, check out [birminghamopendata.org](http://birminghamopendata.org/).
 
 
 Project Lead
