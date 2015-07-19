@@ -28,7 +28,7 @@ We Want You
 We Work like Democracy. We Work Like the Internet.
 --------------------------------------------------
 
-We think that hierarchy is a bad model for the type of work we do. We have a team of organizers, but we do not have bosses, we have leaders. Our leaders don’t not delegate work, and they don’t delegate projects; they just keep everyone on rhythm. Our brigade is truly a melting pot, and we respect that. Every member of Code for Birmingham is valued and important. Every member can propose a project or an idea.
+We think that hierarchy is a bad model for the type of work we do. We have a team of organizers, but we do not have bosses, we have leaders. Our leaders don’t delegate work, and they don’t delegate projects; they just keep everyone on rhythm. Our brigade is truly a melting pot, and we respect that. Every member of Code for Birmingham is valued and important. Every member can propose a project or an idea.
 
 
 Core Team Members
