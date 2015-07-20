@@ -37,7 +37,7 @@ try:
 
     for event in events[0:(num_events-1)]:
         url = event['event_url']
-        date = datetime.datetime.fromtimestamp(event['time'] / 1000.0).strftime('%b %d')
+        date = datetime.datetime.utcfromtimestamp(event['time'] / 1000.0).strftime('%b %d')
         name = event['name']
         html += event_template.substitute(url=url, date=date, name=name)
 
