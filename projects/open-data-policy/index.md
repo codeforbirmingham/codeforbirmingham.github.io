@@ -21,4 +21,4 @@ For more information on the Birmingham Open Data movement or to sign the petitio
 Project Lead
 ------------
 
-Alexander Grüneberg
+Tait Wayland
