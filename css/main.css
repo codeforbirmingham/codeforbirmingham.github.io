@@ -56,8 +56,8 @@ header {
 }
 
 header img {
-    padding-top: 6px;
     max-height: 300px;
+    padding: 1rem;
 }
 
 body > nav {
