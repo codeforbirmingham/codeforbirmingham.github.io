@@ -37,7 +37,7 @@ Core Team Members
 - Captain: <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>
 - Co-Captain: <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
 - Delivery Lead: David Grieser
-- Delivery Lead: Matthew Leeds
+- Delivery Lead: <a href="mailto:matthew.leeds@codeforbirmingham.org">Matthew Leeds</a>
 - Storyteller: Joseph Casper Baker III
 - Data Wrangler: <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
 - Community Organizer: Deon Gordon
