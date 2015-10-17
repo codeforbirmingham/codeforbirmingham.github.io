@@ -20,3 +20,5 @@ Our Discussions
 ---------------
 
 Join our discussions on our [Google Groups mailing list](https://groups.google.com/forum/#!forum/codeforbirmingham).
+
+We also have a [Slack channel](https://codeforbham.slack.com) for more casual discussion. Email [Tait](mailto:tait.wayland@codeforbirmingham.org) for an invitation to that.
