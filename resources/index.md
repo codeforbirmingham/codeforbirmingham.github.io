@@ -23,6 +23,10 @@ Check out how we [rank](http://us-city.census.okfn.org/) compared to other citie
 
 Our Friends in Birmingham
 -------------------------
+* Ed Birmingham
+* Red Mountain Makers
+* Tech Birmingham
+* UAB
 
 
 Like us on Facebook!
