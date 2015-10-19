@@ -34,7 +34,7 @@ We think that hierarchy is a bad model for the type of work we do. We have a tea
 Core Team Members
 -----------------
 
-- Captain: <a href="mailto:tait.wayland@codeforbirmingham.org">Tait Wayland</a>
+- Captain: <a href="mailto:tait@codeforbirmingham.org">Tait Wayland</a>
 - Co-Captain: <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
 - Delivery Lead: David Grieser
 - Delivery Lead: <a href="mailto:matthew.leeds@codeforbirmingham.org">Matthew Leeds</a>
