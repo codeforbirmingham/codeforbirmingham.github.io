@@ -17,11 +17,11 @@
     "gulp-autoprefixer": "^3.1.0",
     "gulp-concat": "^2.6.0",
     "gulp-csslint": "^0.2.0",
-    "gulp-eslint": "^1.0.0",
+    "gulp-eslint": "^1.1.0",
     "gulp-rename": "^1.2.2",
-    "gulp-sass": "^2.0.4",
+    "gulp-sass": "^2.1.0",
     "gulp-uglify": "^1.4.2",
-    "gulp-util": "^3.0.6",
+    "gulp-util": "^3.0.7",
     "require-dir": "^0.3.0"
   },
   "license": "MIT"
