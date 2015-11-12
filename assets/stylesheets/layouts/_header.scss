@@ -1,0 +1,16 @@
+/*
+======================================================================
+  Header Styles
+======================================================================
+*/
+
+header {
+  background: url("/assets/images/backgrounds/bhamsky2.jpg") no-repeat center -50px;
+  background-attachment: fixed;
+  background-size: 100% auto;
+
+  img {
+    max-height: 300px;
+    padding: 1rem;
+  }
+}

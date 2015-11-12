@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <meta charset="UTF-8">
-        <meta name="google-site-verification" content="vi9ttDnTZodGbjUJ6Gn5ZW83EjTuFdxXs2nOfQYUt2w" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
         <meta name="description" content="{{ page.description }}">
         <title>{{ page.title }} - Code for Birmingham</title>
-        <link rel="stylesheet" href="/css/foundation.css">
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="application.css">
+        <link rel="stylesheet" href="/vendor/stylesheets/foundation.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo|Dosis:600|Lobster|Oswald">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="favicon.ico">
         <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.url }}/blog/feed.xml">
-        {% include ga.html %}
     </head>
     <body>
-        {% include fb.html %}
         <header>
             <a href="/">
-                <img class="center" src="/img/codeforbirmingham-logo.png" alt="Code for Birmingham">
+                <img class="center" src="/assets/images/logos/codeforbirmingham-logo.png" alt="Code for Birmingham">
             </a>
         </header>
         <nav>
@@ -100,5 +98,10 @@
                 </section>
             </div>
         </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="/vendor/javascripts/jquery-2.1.4.min.js"><\/script>')</script>
+        <script src="application.js"></script>
+        {% include ga.html %}
+        {% include fb.html %}
     </body>
 </html>

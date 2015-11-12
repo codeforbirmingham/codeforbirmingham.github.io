@@ -1,0 +1,195 @@
+/*
+======================================================================
+  CSS Config
+======================================================================
+*/
+
+/*
+======================================================================
+  Colors
+======================================================================
+*/
+
+// brand
+$cfb-blue: #34a2d7;
+$cfb-red: #cf2041;
+
+// text
+   $base-text: #515151;
+$base-heading: #161616;
+   $base-link: lighten($cfb-blue,5);
+  $hover-link: lighten($base-link,5);
+
+// backgrounds
+$base-background: #fff;
+
+// borders
+$base-border: #eee;
+
+// shadows
+$base-inner-shadow: #000;
+$base-outer-shadow: #000;
+
+// notifications
+ $notice: #000;
+$success: #000;
+$warning: #000;
+  $error: #000;
+
+// social
+$facebook: #3b5999;
+ $twitter: #55acee;
+$linkedin: #0077b5;
+   $gplus: #db4a39;
+
+/*
+======================================================================
+  Typography
+======================================================================
+*/
+
+// fallback typefaces
+   $base-fallback: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$heading-fallback: $base-fallback;
+    $alt-fallback: $base-fallback;
+
+
+// typefaces
+     $base-font: "Arvo", $base-fallback;
+  $heading-font: "Oswald", $heading-fallback;
+      $alt-font: "", $alt-fallback;
+$monospace-font: "Inconsolata", "Monaco", "Courier", monospace, sans-serif;
+
+
+// font sizes
+
+        $base: 14;
+     $base-px: $base + px;
+    $base-rem: ($base / 10) + rem;
+     $base-lh: 1.5;
+
+          $h1: 60;
+       $h1-px: $h1 + px;
+      $h1-rem: ($h1 / 10) + rem;
+       $h1-lh: 1.5;
+
+          $h2: 48;
+       $h2-px: $h2 + px;
+      $h2-rem: ($h2 / 10) + rem;
+       $h2-lh: 1.5;
+
+          $h3: 36;
+       $h3-px: $h3 + px;
+      $h3-rem: ($h3 / 10) + rem;
+       $h3-lh: 1.5;
+
+          $h4: 30;
+       $h4-px: $h4 + px;
+      $h4-rem: ($h4 / 10) + rem;
+       $h4-lh: 1.5;
+
+          $h5: 24;
+       $h5-px: $h5 + px;
+      $h5-rem: ($h5 / 10) + rem;
+       $h5-lh: 1.5;
+
+          $h6: 18;
+       $h6-px: $h6 + px;
+      $h6-rem: ($h6 / 10) + rem;
+       $h6-lh: 1.5;
+
+      $larger: 16;
+   $larger-px: $larger + px;
+  $larger-rem: ($larger / 10) + rem;
+   $larger-lh: 1.5;
+
+       $large: 15;
+    $large-px: $large + px;
+   $large-rem: ($large / 10) + rem;
+    $large-lh: 1.5;
+
+       $small: 13;
+    $small-px: $small + px;
+   $small-rem: ($small / 10) + rem;
+    $small-lh: 1.5;
+
+     $smaller: 12;
+  $smaller-px: $smaller + px;
+ $smaller-rem: ($smaller / 10) + rem;
+  $smaller-lh: 1.5;
+
+    $smallest: 11;
+ $smallest-px: $smallest + px;
+$smallest-rem: ($smallest / 10) + rem;
+ $smallest-lh: 1.5;
+
+        $tiny: 10;
+     $tiny-px: $tiny + px;
+    $tiny-rem: ($tiny / 10) + rem;
+     $tiny-lh: 1.5;
+
+/*
+======================================================================
+  Layout
+======================================================================
+*/
+
+// page
+$base-width: 1280px;
+
+/*
+======================================================================
+  Shadows
+======================================================================
+*/
+
+// box
+$base-box-shadow-inner: #000;
+$base-box-shadow-outer: #000;
+
+// text
+$base-text-shadow: #000;
+
+/*
+======================================================================
+  Aesthetics
+======================================================================
+*/
+
+ $base-border-radius: 0;
+$base-letter-spacing: 0;
+
+/*
+======================================================================
+  Animations
+======================================================================
+*/
+
+  $base-animation-name: "";
+$base-animation-timing: 400ms;
+$base-animation-easing: ease;
+       $base-animation: $base-animation-name $base-animation-timing $base-animation-easing;
+
+/*
+======================================================================
+  Z-Indexes
+======================================================================
+*/
+
+  $z-base: 1;
+$z-header: 1;
+  $z-main: 1;
+$z-footer: 1;
+ $z-modal: 100;
+ $z-alpha: 999999;
+
+/*
+======================================================================
+  Media Query Config
+======================================================================
+*/
+
+  $phone-breakpoint: 360px;
+ $tablet-breakpoint: 768px;
+ $laptop-breakpoint: 1280px;
+$desktop-breakpoint: 1920px;

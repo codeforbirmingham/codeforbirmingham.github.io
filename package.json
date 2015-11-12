@@ -1,0 +1,28 @@
+{
+  "name": "codeforbirmingham.org",
+  "version": "1.0.0",
+  "description": "Code for Birmingham",
+  "author": "",
+  "homepage": "http://codeforbirmingham.org/",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeforBirmingham/codeforbirmingham.github.io.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodeforBirmingham/codeforbirmingham.github.io/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-csslint": "^0.2.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.4.2",
+    "gulp-util": "^3.0.6",
+    "require-dir": "^0.3.0"
+  },
+  "license": "MIT"
+}

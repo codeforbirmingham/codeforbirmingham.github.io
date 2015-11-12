@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Resources
-description: 
+description:
 active: resources
 ---
 
 Code for America
 ----------------
 
-![Code for America Logo](/img/codeforamerica-logo.png)
+![Code for America Logo](/assets/images/logos/codeforamerica-logo.png)
 
 We're just one brigade of many under [Code for America](http://www.codeforamerica.org/)'s banner.
 

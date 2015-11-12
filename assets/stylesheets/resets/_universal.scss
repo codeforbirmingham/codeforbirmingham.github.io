@@ -1,0 +1,47 @@
+/*
+======================================================================
+  Universal Reset
+======================================================================
+*/
+
+// reset
+*, *:before, *:after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+// correct display for undefined HTML5 elements
+article, aside, details, figcaption,
+figure, footer, header, hgroup, main,
+menu, nav, section, summary {
+  display: block;
+}
+
+// contain oversized elements
+audio, canvas, embed, input, img,
+object, select, textarea, video, iframe {
+  max-width: 100%;
+}
+
+// baseline display type
+audio, canvas, img, video, progress {
+  display: block;
+}
+
+// common bottom margin for vertical rhythm
+ul, ol, dl, p, blockquote,
+pre, fieldset, table, hr {
+  margin-bottom: 1em;
+}
+
+// remove opening/closing margins
+* > :first-child { margin-top: 0; }
+* > :last-child { margin-bottom: 0; }
+
+// focus state
+:focus { outline: inherit; }

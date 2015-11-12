@@ -1,0 +1,29 @@
+/*
+======================================================================
+  Footer Styles
+======================================================================
+*/
+
+footer {
+  margin-top: 48px;
+  background-color: #6e6f73;
+
+  .row {
+    padding: 40px 0;
+  }
+
+  .headline {
+    width: 295px;
+
+    h1 {
+      font-size: 20px;
+      color: #fff;
+    }
+  }
+
+  li a {
+    font-family: "Arvo", sans-serif;
+    font-size: 13px;
+    color: #cfcfcf;
+  }
+}

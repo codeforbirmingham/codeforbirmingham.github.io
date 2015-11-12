@@ -10,7 +10,7 @@ A Code for America Brigade
 
 … based in Birmingham, AL. AKA, The Magic City.
 
-<img class="center" src="/img/codeforbirmingham-vulcan.png" alt="Digital Vulcan">
+<img class="center" src="/assets/images/logos/codeforbirmingham-vulcan.png" alt="Digital Vulcan">
 
 
 We're Bringing Magic Back

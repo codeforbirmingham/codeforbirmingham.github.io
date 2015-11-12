@@ -1,1 +1,5 @@
+# ignore jeykll site files
 _site/
+
+# ignore node packages
+node_modules/
