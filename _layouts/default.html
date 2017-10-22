@@ -47,6 +47,11 @@
                 {% else %}
                     <li><a href="/contact-us">Contact Us</a></li>
                 {% endif %}
+                {% if page.active == "submit-project" %}
+                    <li class="active"><a href="/submit-project">Submit Project/a></li>
+                {% else %}
+                    <li><a href="/submit-project">Submit Project</a></li>
+                {% endif %}
             </ul>
         </nav>
         <div class="row">
