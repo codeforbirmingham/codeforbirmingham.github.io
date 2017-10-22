@@ -34,15 +34,8 @@ We think that hierarchy is a bad model for the type of work we do. We have a tea
 Core Team Members
 -----------------
 
-- Captain: <a href="mailto:tait@codeforbirmingham.org">Tait Wayland</a>
-- Co-Captain: <a href="mailto:marcus.dillavou@codeforbirmingham.org">Marcus Dillavou</a>
-- Delivery Lead: David Grieser
-- Delivery Lead: <a href="mailto:matthew.leeds@codeforbirmingham.org">Matthew Leeds</a>
-- Storyteller: Joseph Casper Baker III
-- Data Wrangler: <a href="mailto:alexander.grueneberg@codeforbirmingham.org">Alexander Grüneberg</a>
-- Community Organizer: Deon Gordon
-- Community Organizer: Erika Bazo
-- Community Organizer: <a href="mailto:scott.wehby@codeforbirmingham.org">Scott Wehby</a>
+- Captain: <a href="mailto:casuru@codeforbirmingham.org">Chineye Asuru</a>
+- Delivery Lead: <a href="mailto:tait@codeforbirmingham.org">Tait Wayland</a>
 
 
 Municipal Partners
@@ -54,4 +47,4 @@ Municipal Partners
 Community Partners
 ------------------
 
-- Jennifer Skjellum (Tech Birmingham)
+- <a href="https://edbirmingham.org">Birmingham Education Foundation</a>
